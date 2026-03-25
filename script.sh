@@ -11,10 +11,10 @@ sudo apt install nodejs -y
 # Install npm in the maching
 
 sudo apt install npm -y
-sudo apt install pm2 -y
+sudo apt install pm2 -g -y 
 # clone the repo
 
-git clone https://github.com/AdityaSingh25/DemoAwsServer.git
+sudo git clone https://github.com/AdityaSingh25/DemoAwsServer.git
 
 # cd in the folder
 
