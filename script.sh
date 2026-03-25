@@ -14,11 +14,11 @@ sudo apt install npm -y
 sudo apt install pm2 -y
 # clone the repo
 
-git clone https://github.com/AdityaSingh25/DemoAwsServer.git /home/ubuntu
+git clone https://github.com/AdityaSingh25/DemoAwsServer.git
 
 # cd in the folder
 
-cd home/ubuntu/DemoAwsServer/
+cd DemoAwsServer/
 
 # install packages
 
