@@ -13,11 +13,11 @@ sudo apt install nodejs -y
 sudo apt install npm -y
 # clone the repo
 
-sudo git clone https://github.com/AdityaSingh25/DemoAwsServer.git
+git clone https://github.com/AdityaSingh25/DemoAwsServer.git /home/ubuntu
 
 # cd in the folder
 
-cd DemoAwsServer/
+cd /home/ubuntu/DemoAwsServer/
 
 # install packages
 
